@@ -184,7 +184,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <p class="copy_right text-center">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        <!--  -->
                         <script>
                         document.write(new Date().getFullYear());
                         </script>
